@@ -1,4 +1,4 @@
 # PAPERec
 
 
-Due to the company's code review mechanism, paper code will be uploaded later.
+Due to the company's code review mechanism, the code is being refactored as required and it will be uploaded later.
